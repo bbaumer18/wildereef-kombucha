@@ -2,8 +2,12 @@
 	display: block;
 }
 
+body {
+	background: yellow;
+}
+
 .sticky-post {
-	background: black; //$color__background-button;
+	background: $color__background-button;
 	color: #fff;
 	display: inline-block;
 	font-weight: bold;
